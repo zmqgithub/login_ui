@@ -1,0 +1,12 @@
+const String title = 'Login Page';
+const String login = 'Login';
+const String account = 'Don\'t have an account?';
+const String createAccount = 'Create your account.';
+const String emailId = 'Email Id';
+const String password = 'Password';
+const String remember = 'Remember Me';
+const String forgotPassword = 'Forgot password?';
+const String loginWith = 'or login with';
+const String facebook = 'facebook';
+const String googlePlus = 'google-plus';
+const String twitter = 'twitter';
